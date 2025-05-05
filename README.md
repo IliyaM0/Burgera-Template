@@ -37,4 +37,10 @@ Iliya (Eliya) Mosadegh — for educational and practice purposes.
 ## 🎨 Credits
 
 - Icons: [FontAwesome](https://fontawesome.com)  
-- Fonts: [Google Fonts](https://fonts.google.com)  
+- Fonts: [Google Fonts](https://fonts.google.com)
+
+
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
